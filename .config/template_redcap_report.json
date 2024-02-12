@@ -1,0 +1,11 @@
+{
+    "token": "your_api_token",
+    "content": "report",
+    "format": "json",
+    "report_id":"id",
+    "csvDelimiter": "",
+    "rawOrLabel": "raw",
+    "rawOrLabelHeaders": "raw",
+    "exportCheckboxLabel": "false",
+    "returnFormat": "json"
+}

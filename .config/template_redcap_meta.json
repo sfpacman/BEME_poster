@@ -1,0 +1,7 @@
+{
+    "token": "your_api_token",
+    "content": "metadata",
+    "format": "json",
+    "returnFormat": "json",
+    "forms[0]": ""
+}
